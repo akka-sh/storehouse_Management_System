@@ -1,0 +1,10 @@
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\bin\Debug\satis_online.exe.config
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\bin\Debug\satis_online.exe
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\bin\Debug\satis_online.pdb
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\obj\Debug\satis_online.csprojResolveAssemblyReference.cache
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\obj\Debug\satis_online.Form1.resources
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\obj\Debug\satis_online.Properties.Resources.resources
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\obj\Debug\satis_online.csproj.GenerateResource.Cache
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\obj\Debug\satis_online.exe
+c:\users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\obj\Debug\satis_online.pdb
+C:\Users\abody\documents\visual studio 2015\Projects\satis_online\satis_online\obj\Debug\satis_online.Form2.resources
